@@ -1,6 +1,6 @@
 
 
-<h3 align="center" justify="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Bruno Rodrigues &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a  href="https://www.linkedin.com/in/brnbruno"><img href="google.com" align="center" justify="center" height="30" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"></a></h3>
+<h3 align="center" justify="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Bruno Rodrigues &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a  href="https://www.linkedin.com/in/brnbruno"><img href="google.com" align="center" justify="center" height="30" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"></a></h3>
 <br>
 <!-- 
 <br>
@@ -9,7 +9,7 @@
 --> 
 
 
-<p align="center"><img align="center" align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/><b><em>I love front end😊</em></p>
+<p align="center"><em>I love front end 😊</em></p>
 
 
 <br>
@@ -19,10 +19,7 @@
 <p width="100%" align="center">
   <a align="center" href="https://github.com/BrunoRodriguesNasc/todo" title="React Todo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRodriguesNasc&repo=todo&theme=react"></a>
   <a align="center" justify="center" href="https://github.com/BrunoRodriguesNasc/WindBnb" title="Wind Bnb"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRodriguesNasc&repo=WindBnb&theme=react"></a>
-  <a align="center" justify="center" href="https://github.com/BrunoRodriguesNasc/tela-login" title="tela-login"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRodriguesNasc&repo=tela-login&theme=react"></a>
-   <a align="center" href="https://github.com/BrunoRodriguesNasc/LeagueOfPages" title="League of Pages"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=LeagueOfPages&theme=vue"></a>
-  <a align="center" href="https://github.com/pablobion/msn-js" title="omdb"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=msn-js&theme=vue"></a>
-  
+  <a align="center" href="https://github.com/BrunoRodriguesNasc/LeagueOfPages" title="LeagueOfPages"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRodriguesNasc&repo=LeagueOfPages&theme=react"></a>
 </p>
  </details>
 
@@ -37,7 +34,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 </details>
@@ -46,12 +42,12 @@
  <details align="center">
 <br><br>
 <p align="center" justify="center" >
-    <img  align="center" justify="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=pablobion&show_icons=true&line_height=27&theme=vue"   alt="Martin's GitHub Stats" />
+    <img  align="center" justify="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=BrunoRodriguesNasc&show_icons=true&line_height=27&theme=react"   alt="Martin's GitHub Stats" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablobion&theme=vue" />
+    <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRodriguesNasc&theme=react" />
 </p>
     
-   <img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=pablobion&theme=buefyk&hide_border=true" title="Github Contributions" />
+   <img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoRodriguesNasc&theme=buefyk&hide_border=true" title="Github Contributions" />
 
 
  ![](https://komarev.com/ghpvc/?username=pablobion&color=gray)
