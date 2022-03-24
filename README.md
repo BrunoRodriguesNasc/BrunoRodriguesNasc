@@ -1,6 +1,6 @@
 
 
-<h3 align="center" justify="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there <img width="30" src='https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966'/>,  I'm Pablo Bion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="http://twitter.com/pablobion"><img href="google.com" align="center" justify="center" height="30" src="https://cdn-icons-png.flaticon.com/128/145/145812.png"></a> <a  href="https://www.linkedin.com/in/pablobion"><img href="google.com" align="center" justify="center" height="30" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"></a> <a href="https://open.spotify.com/user/pablobion"><img align="center" justify="center" height="30" src="https://cdn-icons-png.flaticon.com/128/174/174872.png"></a> <a href="https://www.instagram.com/pablobion/"><img href="google.com" align="center" justify="center" height="30" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></a> <a href="https://medium.com/@pablobion"><img href="google.com" align="center" justify="center" height="30" src="https://cdn-icons-png.flaticon.com/128/2111/2111379.png"></a> <a href="http://discord.com/users/221094112739196931"><img align="center" justify="center" height="30" src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png"></a> <a href="mailto:pablo.bion@hotmail.com"><img href="google.com" align="center" justify="center" height="30" src="https://cdn-icons-png.flaticon.com/128/1787/1787171.png"></a></h3>
+<h3 align="center" justify="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Bruno Rodrigues &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a  href="https://www.linkedin.com/in/brnbruno"><img href="google.com" align="center" justify="center" height="30" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"></a></h3>
 <br>
 <!-- 
 <br>
@@ -9,7 +9,7 @@
 --> 
 
 
-<p align="center"><img align="center" align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/><b><em>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
+<p align="center"><img align="center" align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/><b><em>I love front end😊</em></p>
 
 
 <br>
@@ -17,10 +17,10 @@
    <details align="center">
  <br>
 <p width="100%" align="center">
-  <a align="center" href="https://github.com/pablobion/weather-react" title="React Weather"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=weather-react&theme=vue"></a>
-  <a align="center" justify="center" href="https://github.com/pablobion/github-explorer" title="github-explorer"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=github-explorer&theme=vue"></a>
-  <a align="center" justify="center" href="https://github.com/pablobion/gui-portfolio" title="gui-portfolio"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=gui-portfolio&theme=vue"></a>
-   <a align="center" href="https://github.com/pablobion/omdb" title="omdb"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=omdb&theme=vue"></a>
+  <a align="center" href="https://github.com/BrunoRodriguesNasc/todo" title="React Todo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRodriguesNasc&repo=todo&theme=react"></a>
+  <a align="center" justify="center" href="https://github.com/BrunoRodriguesNasc/WindBnb" title="Wind Bnb"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRodriguesNasc&repo=WindBnb&theme=react"></a>
+  <a align="center" justify="center" href="https://github.com/BrunoRodriguesNasc/tela-login" title="tela-login"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRodriguesNasc&repo=tela-login&theme=react"></a>
+   <a align="center" href="https://github.com/BrunoRodriguesNasc/LeagueOfPages" title="League of Pages"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=LeagueOfPages&theme=vue"></a>
   <a align="center" href="https://github.com/pablobion/msn-js" title="omdb"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=msn-js&theme=vue"></a>
   
 </p>
