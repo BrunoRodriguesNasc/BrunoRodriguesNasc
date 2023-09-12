@@ -37,19 +37,5 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 </details>
-<br> 
-<h2 align="center">📊 My Stats</h2>
- <details align="center">
-<br><br>
-<p align="center" justify="center" >
-    <img  align="center" justify="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=BrunoRodriguesNasc&show_icons=true&line_height=27&theme=react"   alt="Martin's GitHub Stats" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRodriguesNasc&theme=react" />
-</p>
-    
-   <img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoRodriguesNasc&theme=buefyk&hide_border=true" title="Github Contributions" />
-
-
- ![](https://komarev.com/ghpvc/?username=pablobion&color=gray)
-   </details>
+<br>
 
