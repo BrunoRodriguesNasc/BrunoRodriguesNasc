@@ -8,10 +8,6 @@
 </br>
 --> 
 
-
-<p align="center"><em>I love front end 😊</em></p>
-
-
 <br>
     <h2 align="center">🗃 Repositories</h2>
    <details align="center">
