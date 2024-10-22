@@ -1,37 +1,51 @@
+# 👋 Olá, eu sou Bruno Rodrigues!
 
+Sou um engenheiro de software apaixonado por desenvolvimento web, com experiência em diversas tecnologias e frameworks. Atualmente, estou focado em construir aplicações robustas e eficientes, buscando sempre aprender e aplicar as melhores práticas.
 
-<h3 align="center" justify="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Bruno Rodrigues &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a  href="https://www.linkedin.com/in/brnbruno"><img href="google.com" align="center" justify="center" height="30" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"></a></h3>
-<br>
-<!-- 
-<br>
-<p>Soue estudante <img align='right' width="600" src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif'/></p>
-</br>
---> 
+---
 
-<br>
-    <h2 align="center">🗃 Repositories</h2>
-   <details align="center">
- <br>
-<p width="100%" align="center">
-  <a align="center" href="https://github.com/BrunoRodriguesNasc/todo" title="React Todo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRodriguesNasc&repo=todo&theme=react"></a>
-  <a align="center" justify="center" href="https://github.com/BrunoRodriguesNasc/WindBnb" title="Wind Bnb"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRodriguesNasc&repo=WindBnb&theme=react"></a>
-  <a align="center" href="https://github.com/BrunoRodriguesNasc/LeagueOfPages" title="LeagueOfPages"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoRodriguesNasc&repo=LeagueOfPages&theme=react"></a>
-</p>
- </details>
+## 🚀 Projetos em Destaque
 
-<br><br>
+### ⚔️ [League of Legends API](https://github.com/BrunoRodriguesNasc/lol-backend-v2)
+Uma API que fornece informações sobre contas, campeões e partidas do League of Legends, semelhante ao op.gg.
 
- <h2 align="center">🔧 Technologies & Tools</h2> 
- <details align="center">
-<br>
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
-</details>
-<br>
+---
 
+## 🛠️ Tecnologias e Ferramentas
+
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, NestJS, Express, Flask
+- **Banco de Dados:** MongoDB, MySQL
+- **Versionamento:** Git, GitHub
+- **Outras:** Docker, APIs RESTful
+
+---
+
+## 🌱 Objetivos e Aprendizados
+
+Atualmente, estou me dedicando a:
+
+- Aprimorar minhas habilidades em **TypeScript** e **NestJS**.
+- Explorar o mundo do **design de interfaces** e **experiência do usuário (UI/UX)**.
+- Contribuir para projetos open-source e colaborar com outros desenvolvedores.
+
+---
+
+## 💬 Vamos Conversar!
+
+Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais ou via e-mail:
+
+- **LinkedIn:** [https://www.linkedin.com/in/brnbruno/](https://www.linkedin.com/in/brnbruno/)
+- **Email:** bruno.rodrigues@ahgora.com.br
+
+---
+
+## 📄 Currículo
+
+Confira meu [currículo](https://docs.google.com/document/d/17v_E_c97ChFZrabNzrHPVytdiSeGAq0FH02PPGmp58U/edit?usp=drive_link) para mais detalhes sobre minha experiência e habilidades.
+
+---
+
+## 🎉 Obrigado por visitar meu perfil!
+
+Sinta-se à vontade para explorar meus repositórios e não hesite em deixar uma estrela se gostar do que vê! 🌟
