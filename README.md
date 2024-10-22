@@ -36,7 +36,7 @@ Atualmente, estou me dedicando a:
 Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais ou via e-mail:
 
 - **LinkedIn:** [https://www.linkedin.com/in/brnbruno/](https://www.linkedin.com/in/brnbruno/)
-- **Email:** bruno.rodrigues@ahgora.com.br
+- **Email:** brnthebruno@gmail.com
 
 ---
 
