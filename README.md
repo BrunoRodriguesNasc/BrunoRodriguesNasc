@@ -13,10 +13,11 @@ Uma API que fornece informações sobre contas, campeões e partidas do League o
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Frontend:** React.js, Next.js, Tailwind CSS
-- **Backend:** Node.js, NestJS, express
-- **Versionamento:** Git, GitHub
-- **Outras:** Docker, APIs RESTful
+- **Frontend:** 🟢 React.js, 🔵 Next.js, 🎨 Tailwind CSS
+- **Backend:** ⚙️ Node.js, 🐦 NestJS, 📦 Express
+- **Versionamento:** 🕵️‍♂️ Git, 🐙 GitHub
+- **Outras:** 📦 Docker, 🌐 APIs RESTful
+
 
 ---
 
