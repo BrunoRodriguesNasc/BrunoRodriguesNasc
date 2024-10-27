@@ -13,25 +13,10 @@ Uma API que fornece informações sobre contas, campeões e partidas do League o
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Frontend:**
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="30" />
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nextjs-logo.svg" alt="Next.js" width="30" />
-  - <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo.svg" alt="Tailwind CSS" width="30" />
-  
-- **Backend:**
-  - <img src="https://nodejs.org/static/images/logos/nodejs-new-logo.svg" alt="Node.js" width="30" />
-  - <img src="https://raw.githubusercontent.com/jjasonclark/nestjs-logo/master/nest-logo.svg" alt="NestJS" width="30" />
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="30" />
-  
-- **Versionamento:**
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="30" />
-  - <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" />
-
-- **Outras:**
-  - <img src="https://www.docker.com/sites/default/files/hub_docker_logo.png" alt="Docker" width="30" />
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/RESTful_Web_Services_Logo.png" alt="REST" width="30" />
-
-
+- **Frontend:** 🟢 React.js, 🔵 Next.js, 🎨 Tailwind CSS
+- **Backend:** ⚙️ Node.js, 🐦 NestJS, 📦 Express
+- **Versionamento:** 🕵️‍♂️ Git, 🐙 GitHub
+- **Outras:** 📦 Docker, 🌐 APIs RESTful
 ---
 
 ## 🌱 Objetivos e Aprendizados
