@@ -14,8 +14,7 @@ Uma API que fornece informações sobre contas, campeões e partidas do League o
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Frontend:** React.js, Next.js, Tailwind CSS
-- **Backend:** Node.js, NestJS, Express, Flask
-- **Banco de Dados:** MongoDB, MySQL
+- **Backend:** Node.js, NestJS
 - **Versionamento:** Git, GitHub
 - **Outras:** Docker, APIs RESTful
 
