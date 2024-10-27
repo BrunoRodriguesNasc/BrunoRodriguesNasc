@@ -14,23 +14,22 @@ Uma API que fornece informações sobre contas, campeões e partidas do League o
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Frontend:**
-  - ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-  - ![Next.js](https://upload.wikimedia.org/wikipedia/commons/2/21/Nextjs-logo.svg)
-  - ![Tailwind CSS](https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo.svg)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="30" />
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nextjs-logo.svg" alt="Next.js" width="30" />
+  - <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo.svg" alt="Tailwind CSS" width="30" />
   
 - **Backend:**
-  - ![Node.js](https://nodejs.org/static/images/logos/nodejs-new-logo.svg)
-  - ![NestJS](https://raw.githubusercontent.com/jjasonclark/nestjs-logo/master/nest-logo.svg)
-  - ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+  - <img src="https://nodejs.org/static/images/logos/nodejs-new-logo.svg" alt="Node.js" width="30" />
+  - <img src="https://raw.githubusercontent.com/jjasonclark/nestjs-logo/master/nest-logo.svg" alt="NestJS" width="30" />
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="30" />
   
 - **Versionamento:**
-  - ![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
-  - ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="30" />
+  - <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" />
 
 - **Outras:**
-  - ![Docker](https://www.docker.com/sites/default/files/hub_docker_logo.png)
-  - ![REST](https://upload.wikimedia.org/wikipedia/commons/2/21/RESTful_Web_Services_Logo.png)
-
+  - <img src="https://www.docker.com/sites/default/files/hub_docker_logo.png" alt="Docker" width="30" />
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/RESTful_Web_Services_Logo.png" alt="REST" width="30" />
 
 
 ---
