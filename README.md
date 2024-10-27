@@ -13,10 +13,24 @@ Uma API que fornece informações sobre contas, campeões e partidas do League o
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Frontend:** 🟢 React.js, 🔵 Next.js, 🎨 Tailwind CSS
-- **Backend:** ⚙️ Node.js, 🐦 NestJS, 📦 Express
-- **Versionamento:** 🕵️‍♂️ Git, 🐙 GitHub
-- **Outras:** 📦 Docker, 🌐 APIs RESTful
+- **Frontend:**
+  - ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+  - ![Next.js](https://upload.wikimedia.org/wikipedia/commons/2/21/Nextjs-logo.svg)
+  - ![Tailwind CSS](https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo.svg)
+  
+- **Backend:**
+  - ![Node.js](https://nodejs.org/static/images/logos/nodejs-new-logo.svg)
+  - ![NestJS](https://raw.githubusercontent.com/jjasonclark/nestjs-logo/master/nest-logo.svg)
+  - ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+  
+- **Versionamento:**
+  - ![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+  - ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+- **Outras:**
+  - ![Docker](https://www.docker.com/sites/default/files/hub_docker_logo.png)
+  - ![REST](https://upload.wikimedia.org/wikipedia/commons/2/21/RESTful_Web_Services_Logo.png)
+
 
 
 ---
