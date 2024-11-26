@@ -2,15 +2,6 @@
 
 Sou um engenheiro de software apaixonado por desenvolvimento web, com experiência em diversas tecnologias e frameworks. Atualmente, estou focado em construir aplicações robustas e eficientes, buscando sempre aprender e aplicar as melhores práticas.
 
----
-
-## 🚀 Projetos em Destaque
-
-### ⚔️ [League of Legends API](https://github.com/BrunoRodriguesNasc/lol-backend-v2)
-Uma API que fornece informações sobre contas, campeões e partidas do League of Legends, semelhante ao op.gg.
-
----
-
 ## 🖥️ Meu Portfólio
 
 Visite meu portfólio e confira mais sobre mim e meus projetos: [brunorodridev.vercel.app](https://brunorodridev.vercel.app/)
