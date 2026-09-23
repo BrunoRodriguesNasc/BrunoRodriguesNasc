@@ -1,41 +1,46 @@
-# 👋 Olá, eu sou Bruno Rodrigues!
+# Bruno Rodrigues
 
-Sou um engenheiro de software apaixonado por desenvolvimento web, com experiência em diversas tecnologias e frameworks. Atualmente, estou focado em construir aplicações robustas e eficientes, buscando sempre aprender e aplicar as melhores práticas.
+**Senior Software Engineer** — Node.js · TypeScript · AWS · AI-assisted engineering
+Florianópolis, Brazil (Remote) · [LinkedIn](https://www.linkedin.com/in/brnbruno/) · [brunorodrinasc@gmail.com](mailto:brunorodrinasc@gmail.com)
 
-## 🖥️ Meu Portfólio
-
-Visite meu portfólio e confira mais sobre mim e meus projetos: [brunorodridev.vercel.app](https://brunorodridev.vercel.app/)
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- **Frontend:** 🟢 React.js, 🔵 Next.js, 🎨 Tailwind CSS
-- **Backend:** ⚙️ Node.js, 🐦 NestJS, 📦 Express
-- **Versionamento:** 🕵️‍♂️ Git, 🐙 GitHub
-- **Outras:** 📦 Docker, 🌐 APIs RESTful
+5+ years building, modernizing, and maintaining business-critical web applications and APIs — TypeScript, Node.js, React/Next.js, PHP, Go, AWS, Kafka, distributed systems. A lot of that work is untangling complex business rules inside legacy systems without breaking what already works. Day to day, I use Claude Code, Cursor, and ChatGPT deliberately — for codebase investigation, implementation, debugging, and documentation — not to skip engineering judgment, but to move faster while keeping it.
 
 ---
 
-## 🌱 Objetivos e Aprendizados
+## Featured project — [COMIGO](https://github.com/BrunoRodriguesNasc/Comigo)
 
-Atualmente, estou me dedicando a:
+A cosmetics-compatibility PWA: scan a product, get a **personal, explainable compatibility score** for your skin — never a generic "toxic/safe" verdict. Built and documented as a portfolio-grade example of how I actually work:
 
-- Aprimorar minhas habilidades em **TypeScript** e **NestJS**.
-- Explorar o mundo do **design de interfaces** e **experiência do usuário (UI/UX)**.
-- Contribuir para projetos open-source e colaborar com outros desenvolvedores.
+- **Deterministic core, AI on the edges.** The scoring engine (`src/domain`) is pure TypeScript with zero LLM in the score/verdict path — tested with `Σ rule contributions === final score` as an enforced invariant. AI only explains a result the engine already computed, with a working non-AI fallback.
+- **Uncertainty as a first-class output.** Unrecognized ingredients lower confidence instead of being silently ignored; below a coverage threshold the verdict shows "insufficient data" instead of a falsely confident badge — a rule born from a real bug I caught with real data.
+- **Rules and weights are versioned data**, not code — editable from an admin panel, validated with Zod, with a schema that blocks an invalid ruleset before it ships.
+- **AI agents work under a written brief.** A [`CLAUDE.md`](https://github.com/BrunoRodriguesNasc/Comigo/blob/main/CLAUDE.md) at the repo root governs how Claude Code operates in that codebase — module boundaries, when to bump the engine version, banned language, and "question it before implementing if it conflicts with the product principle."
 
----
-
-## 💬 Vamos Conversar!
-
-Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais ou via e-mail:
-
-- **LinkedIn:** [https://www.linkedin.com/in/brnbruno/](https://www.linkedin.com/in/brnbruno/)
-- **Email:** brnthebruno@gmail.com
+→ [Full architecture, rules engine, and AI-assisted workflow write-up](https://github.com/BrunoRodriguesNasc/Comigo#readme)
 
 ---
 
-## 📄 Currículo
+## How I use AI in engineering
 
-Confira meu [currículo](https://docs.google.com/document/d/17v_E_c97ChFZrabNzrHPVytdiSeGAq0FH02PPGmp58U/edit?usp=drive_link) para mais detalhes sobre minha experiência e habilidades.
+Not vibe-coding — governed AI usage. On real projects that means: docs and decisions written before implementation, explicit module boundaries an agent has to respect, and guardrails (like "no LLM in the scoring logic") written into the agent's instructions and checked in review, not just assumed. I've also prototyped agent-facing infrastructure beyond application code: a read-only **MCP server** exposing structured feature-flag and business-rule knowledge to AI assistants, to cut down on manually searching large enterprise codebases.
+
+---
+
+## Tech stack
+
+**Languages** TypeScript · JavaScript · Go · PHP · Python · Java
+**Backend** Node.js · NestJS · Express · REST APIs · Microservices
+**Frontend** React · Next.js · Tailwind CSS
+**Data** SQL · NoSQL · Prisma · TypeORM
+**Infra** AWS · Docker · Kafka
+**Observability & testing** Jest · Vitest · Kibana · New Relic
+**AI-assisted engineering** Claude Code · Cursor · ChatGPT · MCP
+
+---
+
+## Currently
+
+- **Senior Software Engineer @ TOTVS** (2024–present) — production reliability and legacy modernization on enterprise systems with complex business rules; cut a critical backlog from 30 items to 3 in one quarter.
+- Previously **Senior Software Engineer @ Ahgora Sistemas** (2020–2024) — business-critical systems for large Brazilian clients (Via Varejo, Mercado Livre), sustaining a 90% SLA target.
+
+Older personal portfolio (pre-AI-assisted-engineering era, kept for continuity): [brunorodridev.vercel.app](https://brunorodridev.vercel.app/)
