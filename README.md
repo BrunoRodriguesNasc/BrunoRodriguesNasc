@@ -1,46 +1,94 @@
-# Bruno Rodrigues
+<h1 align="center">Hi, I'm Bruno 👋</h1>
+<h3 align="center">Senior Software Engineer, building with AI in the loop</h3>
 
-**Senior Software Engineer** — Node.js · TypeScript · AWS · AI-assisted engineering
-Florianópolis, Brazil (Remote) · [LinkedIn](https://www.linkedin.com/in/brnbruno/) · [brunorodrinasc@gmail.com](mailto:brunorodrinasc@gmail.com)
-
-5+ years building, modernizing, and maintaining business-critical web applications and APIs — TypeScript, Node.js, React/Next.js, PHP, Go, AWS, Kafka, distributed systems. A lot of that work is untangling complex business rules inside legacy systems without breaking what already works. Day to day, I use Claude Code, Cursor, and ChatGPT deliberately — for codebase investigation, implementation, debugging, and documentation — not to skip engineering judgment, but to move faster while keeping it.
-
----
-
-## Featured project — [COMIGO](https://github.com/BrunoRodriguesNasc/Comigo)
-
-A cosmetics-compatibility PWA: scan a product, get a **personal, explainable compatibility score** for your skin — never a generic "toxic/safe" verdict. Built and documented as a portfolio-grade example of how I actually work:
-
-- **Deterministic core, AI on the edges.** The scoring engine (`src/domain`) is pure TypeScript with zero LLM in the score/verdict path — tested with `Σ rule contributions === final score` as an enforced invariant. AI only explains a result the engine already computed, with a working non-AI fallback.
-- **Uncertainty as a first-class output.** Unrecognized ingredients lower confidence instead of being silently ignored; below a coverage threshold the verdict shows "insufficient data" instead of a falsely confident badge — a rule born from a real bug I caught with real data.
-- **Rules and weights are versioned data**, not code — editable from an admin panel, validated with Zod, with a schema that blocks an invalid ruleset before it ships.
-- **AI agents work under a written brief.** A [`CLAUDE.md`](https://github.com/BrunoRodriguesNasc/Comigo/blob/main/CLAUDE.md) at the repo root governs how Claude Code operates in that codebase — module boundaries, when to bump the engine version, banned language, and "question it before implementing if it conflicts with the product principle."
-
-→ [Full architecture, rules engine, and AI-assisted workflow write-up](https://github.com/BrunoRodriguesNasc/Comigo#readme)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Node.js+%7C+TypeScript+%7C+AWS;Modernizing+legacy+systems+at+scale;Claude+Code+%2B+Cursor+%2B+ChatGPT;Deterministic+systems%2C+explained+clearly" alt="Typing SVG" />
+</p>
 
 ---
 
-## How I use AI in engineering
+### 🚀 About Me
 
-Not vibe-coding — governed AI usage. On real projects that means: docs and decisions written before implementation, explicit module boundaries an agent has to respect, and guardrails (like "no LLM in the scoring logic") written into the agent's instructions and checked in review, not just assumed. I've also prototyped agent-facing infrastructure beyond application code: a read-only **MCP server** exposing structured feature-flag and business-rule knowledge to AI assistants, to cut down on manually searching large enterprise codebases.
-
----
-
-## Tech stack
-
-**Languages** TypeScript · JavaScript · Go · PHP · Python · Java
-**Backend** Node.js · NestJS · Express · REST APIs · Microservices
-**Frontend** React · Next.js · Tailwind CSS
-**Data** SQL · NoSQL · Prisma · TypeORM
-**Infra** AWS · Docker · Kafka
-**Observability & testing** Jest · Vitest · Kibana · New Relic
-**AI-assisted engineering** Claude Code · Cursor · ChatGPT · MCP
+- 💼 Currently a **Senior Software Engineer @ TOTVS**, modernizing enterprise systems with complex business rules
+- 🛠️ **5+ years** building and maintaining business-critical web apps and APIs — Node.js, TypeScript, React/Next.js, PHP, Go
+- 🌱 Practicing **AI-assisted engineering** daily — Claude Code, Cursor, and ChatGPT for investigation, implementation, debugging, and docs
+- 🧑‍💻 Background: **Ahgora Sistemas** — business-critical systems for major Brazilian clients (Via Varejo, Mercado Livre), sustaining a 90% SLA target
+- 📫 Reach me: **brunorodrinasc@gmail.com**
 
 ---
 
-## Currently
+### 🧰 Tech Stack
 
-- **Senior Software Engineer @ TOTVS** (2024–present) — production reliability and legacy modernization on enterprise systems with complex business rules; cut a critical backlog from 30 items to 3 in one quarter.
-- Previously **Senior Software Engineer @ Ahgora Sistemas** (2020–2024) — business-critical systems for large Brazilian clients (Via Varejo, Mercado Livre), sustaining a 90% SLA target.
+**Languages**
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=7AA2F7)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=E0AF68)
+![Go](https://img.shields.io/badge/-Go-1a1b27?style=for-the-badge&logo=go&logoColor=7DCFFF)
+![PHP](https://img.shields.io/badge/-PHP-1a1b27?style=for-the-badge&logo=php&logoColor=BB9AF7)
+![Python](https://img.shields.io/badge/-Python-1a1b27?style=for-the-badge&logo=python&logoColor=9ECE6A)
 
-Older personal portfolio (pre-AI-assisted-engineering era, kept for continuity): [brunorodridev.vercel.app](https://brunorodridev.vercel.app/)
+**Backend & Frontend**
+![Node.js](https://img.shields.io/badge/-Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=9ECE6A)
+![NestJS](https://img.shields.io/badge/-NestJS-1a1b27?style=for-the-badge&logo=nestjs&logoColor=F7768E)
+![Express](https://img.shields.io/badge/-Express-1a1b27?style=for-the-badge&logo=express&logoColor=c0caf5)
+![React](https://img.shields.io/badge/-React-1a1b27?style=for-the-badge&logo=react&logoColor=7AA2F7)
+![Next.js](https://img.shields.io/badge/-Next.js-1a1b27?style=for-the-badge&logo=next.js&logoColor=c0caf5)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=7DCFFF)
+
+**Data & Infra**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7AA2F7)
+![Prisma](https://img.shields.io/badge/-Prisma-1a1b27?style=for-the-badge&logo=prisma&logoColor=9ECE6A)
+![AWS](https://img.shields.io/badge/-AWS-1a1b27?style=for-the-badge&logo=amazonaws&logoColor=E0AF68)
+![Docker](https://img.shields.io/badge/-Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=7AA2F7)
+![Kafka](https://img.shields.io/badge/-Kafka-1a1b27?style=for-the-badge&logo=apachekafka&logoColor=F7768E)
+
+**AI-Assisted Engineering**
+![Claude](https://img.shields.io/badge/-Claude_Code-1a1b27?style=for-the-badge&logo=claude&logoColor=E0AF68)
+![OpenAI](https://img.shields.io/badge/-ChatGPT-1a1b27?style=for-the-badge&logo=openai&logoColor=c0caf5)
+![Cursor](https://img.shields.io/badge/-Cursor-1a1b27?style=for-the-badge&logo=cursor&logoColor=9ECE6A)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-1a1b27?style=for-the-badge&logo=git&logoColor=F7768E)
+![GitHub](https://img.shields.io/badge/-GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)
+![VS Code](https://img.shields.io/badge/-VS%20Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=7AA2F7)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunoRodriguesNasc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRodriguesNasc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BrunoRodriguesNasc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoRodriguesNasc&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoRodriguesNasc/BrunoRodriguesNasc/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoRodriguesNasc/BrunoRodriguesNasc/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrunoRodriguesNasc/BrunoRodriguesNasc/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://brunorodridev.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-1a1b27?style=for-the-badge&logo=todoist&logoColor=7AA2F7" /></a>
+  <a href="https://www.linkedin.com/in/brnbruno/"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
+  <a href="mailto:brunorodrinasc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=F7768E" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrunoRodriguesNasc&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+</p>
